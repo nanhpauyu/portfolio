@@ -1,7 +1,7 @@
 export const projectData = [
     {
         'name': 'Portfolio',
-        'description': 'Develop a portfolio website using ReactJS ',
+        'description': 'Develop a portfolio website using ReactJS and deploy it on AWS S3 with CloudFront.',
         'github': 'https://github.com/nanhpauyu/portfolio',
         'tech': [
             'HTML5',
