@@ -13,7 +13,7 @@ function About() {
                         Halifax Ct&ensp;·&ensp;Denver, CO 80249&ensp;·&ensp;(641) 819-1480&ensp;·&ensp;
                         <a href="mailto:name@email.com">nan.hpauyu@yahoo.com</a>
                     </div>
-                    <p className="lead mb-5">I am motivated software developer with three years of experience developing and maintaining enterprise applications in the IT, Blockchain, and Ecommerce industries. Experienced in building projects from scratch and adding new efficient features for legacy ones. Skilled in working with Python, Django, Web Scraping, Numpy, Pandas, ReactJs, RESTful APIs and AWS services</p>
+                    <p className="lead mb-5">Motivated Software Developer with three years of experience in developing and maintaining enterprise applications across IT, Blockchain, and E-commerce industries. Proficient in building projects from the ground up and enhancing legacy systems with efficient new features. Skilled in Python, Django, Flask, Web Scraping, NumPy, Pandas, ReactJS, RESTful APIs, and Cloud Deployment services.</p>
                     <div className="social-icons">
                         <a className="social-icon" href="https://www.linkedin.com/in/nanhpauyu/" target="blank"><i className="fab fa-linkedin-in"></i></a>
                         <a className="social-icon" href="https://github.com/nanhpauyu" target="blank"><i className="fab fa-github"></i></a>

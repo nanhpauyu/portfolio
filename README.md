@@ -16,6 +16,7 @@ This is my portfolio website  [Here is my website.. Welcome!](https://d3cpzuf1vp
 - AWS
 - S3
 - Cloudfront
+- Codepipeline
 - Github
 - Vs Code
 
