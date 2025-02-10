@@ -1,6 +1,6 @@
 # Protfolio Website
 
-This is my portfolio website  [Here is my website.. Welcome!](https://d3cpzuf1vpduci.cloudfront.net/).
+This is my portfolio website  [Here is my website.. Welcome!](https://d3cpzuf1vpduci.cloudfront.net/){:target="_blank"}.
 
 ## Features
 
