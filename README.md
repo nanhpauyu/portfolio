@@ -1,4 +1,4 @@
-# Protfolio Website
+# Portfolio Website
 
 This is my portfolio website  [Here is my website.. Welcome!](https://d3cpzuf1vpduci.cloudfront.net/).
 
@@ -48,4 +48,4 @@ This is my portfolio website  [Here is my website.. Welcome!](https://d3cpzuf1vp
    npm start
    ```
 
-5. Open your browser and navigate to `http://localhost:3000` for the front end.
+5. Open your browser and navigate to `http://localhost:3000` for my Portfolio Website.
