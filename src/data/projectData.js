@@ -1,5 +1,26 @@
 export const projectData = [
     {
+        'name': 'Job Application Tracker',
+        'description': 'Create a Django-based Job Application Tracker integrated with a Chrome extension that scrapes job listings data from LinkedIn, Glassdoor, and Indeed. The tracker will allow users to manage and monitor their job applications, while the Chrome plugin will automatically gather relevant job data from these popular platforms to streamline the application process.',
+        'github': 'https://github.com/nanhpauyu/django-job-application-tracker',
+        'tech': [
+            'Python',
+            'Django',
+            'Django-restframework',
+            'HTML5',
+            'CSS',
+            'Tailwind',
+            'JavaScript',
+            'ReactJs',
+            'PostgreSQL',
+            'Vercel',
+            'Github',
+            'VS Code',
+            'Postman'
+        ],
+        'time': '2/2025',
+    },
+    {
         'name': 'Portfolio',
         'description': 'Develop a portfolio website using ReactJS and deploy it on AWS S3 with CloudFront.',
         'github': 'https://github.com/nanhpauyu/portfolio',
