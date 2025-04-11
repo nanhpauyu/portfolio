@@ -14,18 +14,18 @@ export const educationData = [
         'start': '04/2024',
         'end': '12/2026',
     },
-    {   
-        'degree': 'Bachelor of Medicine, Bachelor of Surgery',
-        'school': 'University of Medicine',
-        'location': 'Magway, Myanmar',
-        'course': [
-            'Medicine',
-            'Surgery',
-            'Gynaecology and Obstetrics',
-            'Paediatrics',
-        ],
-        'gpa': '3.5',
-        'start': '12/2010',
-        'end': '06/2017',
-    }
+    // {   
+    //     'degree': 'Bachelor of Medicine, Bachelor of Surgery',
+    //     'school': 'University of Medicine',
+    //     'location': 'Magway, Myanmar',
+    //     'course': [
+    //         'Medicine',
+    //         'Surgery',
+    //         'Gynaecology and Obstetrics',
+    //         'Paediatrics',
+    //     ],
+    //     'gpa': '3.5',
+    //     'start': '12/2010',
+    //     'end': '06/2017',
+    // }
 ]
